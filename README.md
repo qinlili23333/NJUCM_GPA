@@ -8,6 +8,10 @@
 用于计算有史以来所有课的绩点  
 请登录教务系统后打开这个页面 http://202.195.210.218/gradeLnAllAction.do?type=ln&oper=sxinfo&lnsxdm=001 使用  
 
+# ALL_GPA_CONVERT.js  
+用于在网页上把成绩转换成绩点,然后复制表格,评奖学金等地方用  
+请登录教务系统后打开这个页面 http://202.195.210.218/gradeLnAllAction.do?type=ln&oper=sxinfo&lnsxdm=001 使用  
+
 # SINGLE.js  
 用于计算最近一个学期的绩点  
 请登陆教务系统后打开这个页面 http://202.195.210.218/bxqcjcxAction.do 使用  
